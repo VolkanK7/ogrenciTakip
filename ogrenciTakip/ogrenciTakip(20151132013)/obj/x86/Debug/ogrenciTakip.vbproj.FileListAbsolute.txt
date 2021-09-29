@@ -1,0 +1,14 @@
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\bin\Debug\ogrenciTakip.exe
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\bin\Debug\ogrenciTakip.pdb
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\bin\Debug\ogrenciTakip.xml
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.vbproj.GenerateResource.Cache
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.exe
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.xml
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.pdb
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\Win7\AppData\Local\Temporary Projects\ogrenciTakip\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources

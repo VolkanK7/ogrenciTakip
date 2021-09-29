@@ -1,0 +1,145 @@
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).vbproj.GenerateResource.Cache
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\Win7\Documents\Visual Studio 2010\Projects\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).vbproj.GenerateResource.Cache
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\Win7\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\Win7\Desktop\Görsel Prog\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).vbproj.GenerateResource.Cache
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\bin\Debug\ogrenciDB.mdb
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe.config
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe.config
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\bin\Debug\bin\Debug\ogrenciDB.mdb
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrenciTakip(20151132013) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe.config
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\bin\Debug\bin\Debug\ogrenciDB.mdb
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni)\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe.config
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\bin\Debug\ogrenciDB.mdb
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\volkan-PC\Desktop\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe.config
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).exe
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).pdb
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\ogrenciTakip(20151132013).xml
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Form1.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.Resources.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip1.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip2.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip3.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip4.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip5.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip6.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\bin\Debug\bin\Debug\ogrDatabase.mdb
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip7.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip8.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip9.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip10.resources
+C:\Users\volkan-PC\Desktop\Projeler\ogrTakip (Yeni) - Kopya\ogrenciTakip(20151132013)\obj\x86\Debug\ogrenciTakip.ogrTakip11.resources
